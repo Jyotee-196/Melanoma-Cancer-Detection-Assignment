@@ -16,9 +16,7 @@ The dataset used consists of 2,357 images of malignant and benign skin lesions, 
 To combat class imbalance, the Augmentor Python library was employed to augment the dataset and ensure that each class has an adequate number of samples.
 
 Sample Image from the Dataset
-
-https://github.com/Jyotee-196/Melanoma-Cancer-Detection-Assignment/blob/c5c49d51b335c8eeaf8d623c34dcfc4ad8ba38af/Samleimagefromdataset.png
-
+https://github.com/Jyotee-196/Melanoma-Cancer-Detection-Assignment/blob/186386f74bb95dceeac3042e1b7f88e83b5b2ced/Sampledataset.png
 
 CNN Architecture Design
 The goal is to design a CNN-based model capable of classifying skin lesions. To improve classification accuracy, a custom CNN model was developed that includes several layers and techniques to enhance learning and generalization:
